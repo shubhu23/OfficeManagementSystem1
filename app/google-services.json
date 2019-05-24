@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1044211524160",
+    "firebase_url": "https://officemanagementsystem-aaa7d.firebaseio.com",
+    "project_id": "officemanagementsystem-aaa7d",
+    "storage_bucket": "officemanagementsystem-aaa7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044211524160:android:d5c96e37b40a29bf",
+        "android_client_info": {
+          "package_name": "com.example.officemanagementsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044211524160-h99515v1rfs03euui61ut5dkj6diqtb7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgDoUu2hcSv87Qq8yYchs6pObkCSCQ69Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044211524160-h99515v1rfs03euui61ut5dkj6diqtb7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

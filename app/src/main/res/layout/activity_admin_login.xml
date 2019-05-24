@@ -14,7 +14,7 @@
         android:layout_height="wrap_content"
         android:gravity="center"
         android:padding="20dp"
-        android:text="Log In"
+        android:text="Registration"
         android:textAppearance="@style/TextAppearance.AppCompat.Large"
         android:textSize="28sp" />
 
@@ -47,7 +47,7 @@
         android:layout_margin="10dp"
         android:background="@drawable/mast_new"
         android:padding="10dp"
-        android:text="Log In"
+        android:text="Registration"
         android:textAppearance="@style/TextAppearance.AppCompat.Medium"
         android:textColor="@android:color/black" />
 
@@ -59,7 +59,7 @@
         android:background="@drawable/mast_new_one"
         android:gravity="center"
         android:padding="10dp"
-        android:text="Don't have account?Sign Up Now"
+        android:text="Already have account?Log In Now"
         android:textAppearance="@style/TextAppearance.AppCompat.Medium"
         android:textColor="@android:color/black" />
 </LinearLayout>
